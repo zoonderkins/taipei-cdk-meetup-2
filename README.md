@@ -64,3 +64,7 @@ aws secretsmanager create-secret --name bridge-githubAccessToken \
     write:repo_hook
     read:repo_hook
 ```
+
+## Screenshot
+
+![](https://raw.githubusercontent.com/ookangzheng/taipei-cdk-meetup-2/master/slackbot-approval.png)
